@@ -1,0 +1,35 @@
+:root {
+  --Yellow : #F3C623;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.auth {
+  background-image: url('../assets/img/background.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.homeBackground {
+  background-image: url('../assets/img/homeBackground.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.txtHome {
+  color: var(--Yellow); 
+}
+.blog-gd {
+  overflow: hidden;
+}
+
+/* Nếu muốn ẩn thanh cuộn cho toàn bộ trang */
+body {
+  overflow-x: hidden;
+}

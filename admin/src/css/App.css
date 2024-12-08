@@ -1,0 +1,30 @@
+:root {
+  --Yellow: #f3c623;
+  --BlueLogo: #348498;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.auth {
+  background-image: url("../../public/assets/img/background.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.img-container {
+  width: 100%; /* Chiếm toàn bộ chiều rộng */
+  height: 100%; /* Chiếm toàn bộ chiều cao */
+  overflow: hidden; /* Ẩn phần ảnh thừa nếu có */
+}
+
+.img-container img {
+  width: 100%; /* Chiếm toàn bộ chiều rộng của ô */
+  height: 100%; /* Chiếm toàn bộ chiều cao của ô */
+  object-fit: cover; /* Đảm bảo ảnh bao phủ toàn bộ không gian */
+}

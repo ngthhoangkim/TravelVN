@@ -11,8 +11,8 @@ Việt Nam có nhiều danh lam thắng cảnh và di sản văn hóa phong phú
 - **Mở rộng tính năng hỗ trợ doanh nghiệp**: Thêm các công cụ hỗ trợ doanh nghiệp du lịch trong việc quản lý khách hàng, phân tích dữ liệu và tối ưu hóa chiến lược marketing. 
 - **Mở rộng phạm vi và ứng dụng quốc tế**: Nâng cấp hệ thống để hỗ trợ nhiều ngôn ngữ hơn, giúp thu hút du khách quốc tế. Các tính năng đa ngôn ngữ sẽ mở rộng khả năng tiếp cận của nền tảng, đồng thời giúp quảng bá du lịch Việt Nam ra thế giới. Tăng cường các hoạt động hợp tác quốc tế trong lĩnh vực du lịch, tạo ra cơ hội hợp tác với các nền tảng du lịch quốc tế để mở rộng thị trường
 ## Thành viên thực hiện dự án
-1. Nguyễn Ngọc Vân Nhi - **Nhóm trưởng**
-2. Nguyễn Thị Hoàng Kim
-3. Nguyễn Ngọc Thảo Ngân
-4. Lê Thị Phượng
-5. Phan Tuấn Anh
+1. Nguyễn Ngọc Vân Nhi - **Nhóm trưởng** - Phát triển App
+2. Nguyễn Thị Hoàng Kim - Phát triển Web
+3. Nguyễn Ngọc Thảo Ngân - Phát triển App
+4. Lê Thị Phượng - Phát triển Web
+5. Phan Tuấn Anh - Phát triển Web

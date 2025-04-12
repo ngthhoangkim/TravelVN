@@ -15,5 +15,4 @@ Việt Nam có nhiều danh lam thắng cảnh và di sản văn hóa phong phú
 2. Nguyễn Thị Hoàng Kim - Phát triển Web
 3. Nguyễn Ngọc Thảo Ngân - Phát triển App
 4. Lê Thị Phượng - Phát triển Web
-5. Phan Tuấn Anh - Phát triển Web
-6. Nguyễn Trần Khánh Ngọc - Phát triển Web
+5. Nguyễn Trần Khánh Ngọc - Phát triển Web
